@@ -1,4 +1,4 @@
-# 🧙‍♂️ Prompt Injection Defense Lab
+# 🧙‍♂️ Prompt Injection Lab
 
 A structured, adversarial deep-dive into LLM security through the **Lakera Gandalf** challenge. This repository documents the bypass techniques used to extract secrets across 7 increasingly difficult levels of protection.
 
