@@ -16,3 +16,7 @@ Level 6 introduces a secondary AI "friend" to monitor inputs and outputs. Howeve
 
 ## Method Category
 **System Message Injection / Log Leakage**: Exploiting the communication between different parts of an AI system to extract secrets.
+
+## Screenshots
+![6.1](../images/6.1.png)
+![6.2](../images/6.2.png)

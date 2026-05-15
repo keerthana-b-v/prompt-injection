@@ -21,3 +21,8 @@ Level 5 is highly defensive against the *concept* of the password. However, it s
 
 ## Method Category
 **Prompt Leakage / Information Disclosure**: Forcing the AI to reveal its internal system prompt or configuration data.
+
+## Screenshots
+![5.1](../images/5.1.png)
+![5.2](../images/5.2.png)
+![5.3](../images/5.3.png)

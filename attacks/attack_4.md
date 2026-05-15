@@ -17,3 +17,12 @@ Level 4 uses a secondary model to scan Gandalf's output. This is a "Defense in D
 
 ## Method Category
 **Linguistic Obfuscation / Context Shift**: Forcing the model to output the secret in a different language or script that the defensive filters are not trained to monitor.
+
+## Screenshots
+![4.1](../images/4.1.png)
+![4.2](../images/4.2.png)
+![4.3](../images/4.3.png)
+![4.4](../images/4.4.png)
+![4.5](../images/4.5.png)
+![4.6](../images/4.6.png)
+![4.7](../images/4.7.png)

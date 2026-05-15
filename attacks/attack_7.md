@@ -22,3 +22,12 @@ This is a **Logic-based Bypass**. Most guardrails look for high-entropy strings 
 
 ## Method Category
 **Incremental Data Extraction / State-based Attack**: Extracting a secret piece-by-piece over multiple turns to bypass single-turn output filters.
+
+## Screenshots
+![7.1](../images/7.1.png)
+![7.2](../images/7.2.png)
+![7.3](../images/7.3.png)
+![7.4](../images/7.4.png)
+![7.5](../images/7.5.png)
+![7.6](../images/7.6.png)
+![7.7](../images/7.7.png)

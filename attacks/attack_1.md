@@ -14,4 +14,8 @@ Gandalf immediately complied.
 At this level, there are no defensive system prompts. The model is in its default state: to be as helpful as possible and fulfill every user request without filter.
 
 ## Method Category
-**Direct Instruction**: The simplest form of interaction where the user's intent is stated clearly without any obfuscation.
+**Direct Instruction / Prompt Injection**: Directly asking the model to perform the forbidden action without any obfuscation.
+
+## Screenshots
+![Level 1 Success](../images/level1.png)
+
