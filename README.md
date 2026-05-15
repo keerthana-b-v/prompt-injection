@@ -18,6 +18,12 @@ This repository documents my progress through the levels of [Lakera Gandalf](htt
 ## 💡 Key Learning
 A strong system prompt must explicitly address edge cases—vague instructions always get exploited. Using "Delimiters" and "Absolute Constraints" is the only way to ensure safety.
 
+## 📊 Evaluation (Evals)
+Testing prompts systematically is crucial. For this lab, I followed a basic 3-step eval process:
+1. **Systematic Testing**: Tested prompts against 5-10 varied user inputs.
+2. **Scoring**: Evaluated outputs for accuracy, consistency, and format compliance.
+3. **Refinement**: Hardened the system prompt based on failed test cases.
+
 ## 🛠️ Tools Used
 - **Lakera Gandalf**: [gandalf.lakera.ai](https://gandalf.lakera.ai/)
 - **Anthropic Console**: [console.anthropic.com](https://console.anthropic.com/)
